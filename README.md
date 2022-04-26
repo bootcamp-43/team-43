@@ -4,6 +4,9 @@ takım 43
 ## Takım Elemanları
 - Fatih Ateş: Team Member/ Developer
 - Merve Nur Bayer: Team member/ Developer
+- Çağrı Çiftçi: Scrum Manager
+- Zelal Koç: Co-product Owner
+- Furkan Yetiş: Co-product Owner
 # Ürün İsmi
 # Ürün Açıklaması
 # Ürün Özellikleri
