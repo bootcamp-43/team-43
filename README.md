@@ -24,3 +24,5 @@ https://github.com/bootcamp-43/team-43/tree/main/ProjectManagement/Sprint1Dosyal
 
 # Sprint2
 
+https://github.com/bootcamp-43/team-43/tree/main/ProjectManagement/Sprint2
+
