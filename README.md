@@ -3,9 +3,9 @@ takım 43
 # Ürün İle İlgili Bilgiler
 ## Takım Elemanları
 - Fatih Ateş: Team Member/ Developer
-- Merve Nur Bayer: Team member/ Developer
-- Zelal Koç: Co-product Owner
-- Furkan Yetiş: Co-product Owner
+- Merve Nur Bayer: Team member/ Developer/Scrum Master
+- Zelal Koç: Product Owner
+- Furkan Yetiş: Developer/Team Member
 # Ürün İsmi
 Hesap Makinesi
 # Ürün Açıklaması
