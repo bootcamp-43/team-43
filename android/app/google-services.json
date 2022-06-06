@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040121832419",
+    "project_id": "ouakademi-20d77",
+    "storage_bucket": "ouakademi-20d77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040121832419:android:9817b39f3cdcffd39eb6d6",
+        "android_client_info": {
+          "package_name": "com.example.akademi_boot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040121832419-dg5qkg3l1eb3uv15pu3o433ss9pjn0dj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akademi_boot",
+            "certificate_hash": "6e8fab1b3c7ca45d2c280f9afa737e5780ed2da8"
+          }
+        },
+        {
+          "client_id": "1040121832419-q8o2jdr1rh647kmvver9ada42sqj9eps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9qgRK_xX1OePDtQbjpcjhCufuebbBsmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040121832419-q8o2jdr1rh647kmvver9ada42sqj9eps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
